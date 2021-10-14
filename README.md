@@ -6,4 +6,7 @@ The simulation dataset used for training, validation, and testing; The in vivo d
 
 The data should be downloaded into the Data for DL-FPC folder to be processed from our scripts. 
 
+The CNN code used in this project is proprietary. The CNN code is © 2021 The Trustees of Columbia University in the City of New York.  This work may be reproduced and distributed for academic non-commercial purposes only.
+
 David Ma, djm2249@columbia.edu
+
